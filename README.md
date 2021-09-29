@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I'm Akunma and this is my GitHub! I am currently training to become an SRE and building on my previous technical experience. I'm a recent graduate from the University of Leeds, where I completed a Chemistry degree and worked part time as a Primary and Secondary School tutor.
+
+
 <!--
 **andujiuba/andujiuba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
