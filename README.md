@@ -2,7 +2,7 @@
 
 I'm Akunma and this is my GitHub!
 
-I am currently training to become an SRE and building on my previous technical experience. I'm a recent graduate from the University of Leeds, where I completed a Chemistry degree and worked part time as a Primary and Secondary School tutor.
+I am currently working as a consultant at Deloitte, contracted by Sparta Global where I trained as a Site Reliability Engineer. I'm a recent graduate from the University of Leeds, where I completed a Chemistry degree and worked part time as a Primary and Secondary School tutor.
 
 
 <!--
